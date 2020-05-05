@@ -1,6 +1,6 @@
 ## This app shows a GeoJSON obtained through a PostgreSQL database of the census tracts of the Madrid community.
 
-- ### /geojsondb ===> The first service shows the GeoJSON filtering with a cusec code.
+- ### /geojsondb ===> The first service shows the GeoJSON of the entire database.
 
 An example:  
 **http://localhost:8000/geojsondb**
